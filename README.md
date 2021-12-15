@@ -8,11 +8,11 @@
 💌 Find me around the web ⤵️
 
 
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:spencerjack13@gmail.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:spencerjack13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-roffey-a7513118a)
 
 
-🌟 Check out my portfolio [here](https://www.sroffey-github.github.io)
+🌟 Check out my portfolio [here](https://sroffey-github.github.io)
 
 
 **GitHub Stats**
