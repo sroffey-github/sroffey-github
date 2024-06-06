@@ -9,6 +9,8 @@ With over 3 years of experience in DevOps, I specialize in designing and maintai
 🔧 Technologies & Tools
 
 Languages: Python, Bash, HTML, Javascript
+
 Infrastructure as Code: Terraform, Ansible
+
 CI/CD: Jenkins, GitLab CI, GitHub Actions
 
